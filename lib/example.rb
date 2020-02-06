@@ -1,6 +1,6 @@
 class Garden
   attr_accessor :name
-
+#hi
   def initialize(name:)
     @name = name
   end
