@@ -1,7 +1,7 @@
 # Something is missing here
 
 class Garden
-  attr_accessor :name
+  attr_accessor :name, :bri
 
   def initialize(name:)
     @name = name

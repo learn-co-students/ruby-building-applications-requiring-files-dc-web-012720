@@ -13,7 +13,7 @@ class Garden
 end
 
 class Plant
-  attr_accessor :garden, :name
+  attr_accessor :garden, :name, :bri
 
   @@all = []
 
